@@ -20,5 +20,9 @@
 	"blueprintPause": "Pausar",
 	"blueprintResume": "Prosseguir",
 	"blueprintCancel": "Cancelar",
-	"dispenserShoot": "Fogo!"
+	"dispenserShoot": "Fogo!",
+	"itemScannerModeInteraction": "Modo: Interação",
+	"itemScannerModeWorld": "Modo: Mundo",
+	"itemScannerFilterWhitelist": "Filtro: Lista Branca",
+	"itemScannerFilterBlacklist": "Filtro: Lista Negra"
 }

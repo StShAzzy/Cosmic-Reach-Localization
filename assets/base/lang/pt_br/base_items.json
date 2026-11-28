@@ -63,5 +63,9 @@
 	"base:paper": "Papel",
 	"base:spawn_disk_builder_drone": "Drone Construtor",
 	"base:tomato": "Tomate",
-	"base:tomato_seeds": "Sementes de Tomate"
+	"base:tomato_seeds": "Sementes de Tomate",
+	"base:spawn_disk_haunted_hand": "Disco Invocador de Mão Assombrada",
+	"base:spawn_disk_umbra_eye": "Disco Invocador de Olho Umbral",
+	"base:eye_lens": "Lente Ocular",
+	"base:keycard": "Cartão de Acesso"
 }

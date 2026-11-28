@@ -17,5 +17,7 @@
 	"achievement_base:jetpack": "Mochila... A Jato!",
 	"achievement_desc_base:jetpack": "Equipe uma Mochila a Jato.",
 	"achievement_base:light_show": "Show de Luzes!",
-	"achievement_desc_base:light_show": "Mude a cor de uma Arma Laser em uma Bancada de Trabalho."	
+	"achievement_desc_base:light_show": "Mude a cor de uma Arma Laser em uma Bancada de Trabalho.",
+	"achievement_base:eye_see_you": "De Olho",
+	"achievement_desc_base:eye_see_you": "Encare um Olho Umbral diretamente."
 } 
